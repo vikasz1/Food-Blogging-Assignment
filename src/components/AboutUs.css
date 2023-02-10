@@ -1,0 +1,106 @@
+.image {
+  width: 384px;
+  height: 468px;
+  left: 205px;
+  top: 989px;
+
+  margin-left: 205px;
+}
+.about-section {
+  float: right;
+  margin-right: 200px;
+  margin-top: 107px;
+}
+.aboutus {
+  width: 422px;
+  height: 26px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 45px;
+  line-height: 27px;
+  color: #0e2368;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin-right: 40px;
+}
+.about-body {
+  position: absolute;
+  width: 1440px;
+  height: 467px;
+  left: 0px;
+  top: 989px;
+
+  background: linear-gradient(
+    90.07deg,
+    rgba(30, 42, 93, 0.04) 30.91%,
+    rgba(48, 62, 130, 0.04) 64.79%,
+    rgba(60, 80, 157, 0.04) 91.94%
+  );
+}
+.about-text {
+  width: 447px;
+  height: 138px;
+
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 27px;
+  /* or 180% */
+
+  /* body */
+
+  color: #444957;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+.read-btn{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 3px 26px;
+gap: 10px;
+
+width: 132px;
+height: 42px;
+
+background: #E23744;
+border-radius: 21px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+border: none;
+}
+.read-text{
+    width: 80px;
+height: 36px;
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 36px;
+/* identical to box height, or 225% */
+
+letter-spacing: 0.03em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
