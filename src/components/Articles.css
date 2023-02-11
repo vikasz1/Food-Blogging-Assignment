@@ -1,0 +1,56 @@
+.articles{
+    position: absolute;
+    width:100%;
+    top: 1500px;
+}
+
+.articles .header{
+    position: absolute;
+width: 461px;
+height: 84px;
+left: 108px;
+top: 30px;
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 56px;
+line-height: 42px;
+/* or 75% */
+
+letter-spacing: 0.04em;
+
+/* primary */
+
+color: #0E2368;
+}
+
+.articles .card-container{
+    position: absolute;
+    top: 200px;
+    width: 80%;
+    left: 120px;
+    display: flex;
+    overflow: scroll;
+}
+
+.img-card{
+    /* box-sizing: border-box;
+
+position: absolute;
+
+left: 108px;
+top: 1739px;
+
+background: #FFFFFF;
+border: 1.37039px solid rgba(147, 162, 211, 0.38);
+border-radius: 20.937px; */
+
+    box-sizing: border-box;
+    width: 381px;
+height: 554px;
+    background: #FFFFFF;
+border: 1.37039px solid rgba(147, 162, 211, 0.38);
+border-radius: 20.937px;
+    margin: 20px;
+}
