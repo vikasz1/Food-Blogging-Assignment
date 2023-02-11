@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3fe644ca.css",
+    "main.js": "/static/js/main.cabd0ab0.js",
+    "static/media/pizza.png": "/static/media/pizza.e3a3f59c6b4c8f78a18e.png",
+    "static/media/pharma.png": "/static/media/pharma.f02ecb0f049d18b71620.png",
+    "index.html": "/index.html",
+    "main.3fe644ca.css.map": "/static/css/main.3fe644ca.css.map",
+    "main.cabd0ab0.js.map": "/static/js/main.cabd0ab0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fe644ca.css",
+    "static/js/main.cabd0ab0.js"
+  ]
+}
